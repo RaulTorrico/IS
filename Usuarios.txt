@@ -1,0 +1,17 @@
+alvarito@gmail.com
+1234
+DirectorAcademico
+Alvaro
+ismael@gmail.com
+2345
+UsuarioRegistrado
+Ismael
+fernando@gmail.com
+3467
+Organizador
+Fernando
+luis@gmail.com
+1367
+UsuarioRegistrado
+Luis
+
